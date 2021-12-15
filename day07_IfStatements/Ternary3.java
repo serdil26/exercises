@@ -12,7 +12,7 @@ public class Ternary3 {
 int sayi1=scan.nextInt();
 
 System.out.print("sayinin mutlak degeri : ");
-System.out.print( sayi1<0 ?   sayi1*-1 : sayi1*1);
+System.out.print( sayi1<0 ?   sayi1*-1 : sayi1);
 
 	}
 
